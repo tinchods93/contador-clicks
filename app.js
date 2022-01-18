@@ -4,3 +4,4 @@ boton.addEventListener('click', () => {
 	clicks++;
 	boton.innerHTML = clicks;
 });
+console.log("asd");
